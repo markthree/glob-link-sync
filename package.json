@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "name": "glob-link-sync",
   "description": "link synchronization, glob",
   "main": "./dist/index.cjs",
